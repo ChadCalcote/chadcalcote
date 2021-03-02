@@ -5,15 +5,15 @@
 
 ## Adventurer, Engineer, & Friend to the World
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 🎵 I’m currently writing my first ukulele song
+- 💻 I’m currently diving more into Redux
+- 👯 I’m looking for new work in tech
+- 💬 Ask me about ... Flask
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I've been to 4 continents, can you guess them?
 
 
-### Talk with me, I am kinda awesome:
+### Let's link up, check me out here:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
