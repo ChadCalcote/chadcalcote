@@ -1,6 +1,6 @@
 ### Howdy World, I'm Chad 🤠
 
- <img align="right" alt="GIF" src="https://i.gifer.com/4SOY.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/chadcalcote/chadcalcote/blob/main/cowboy.gif?raw=true" width="500" height="320" />
 
 
 ## Adventurer, Engineer, & Friend to the World
