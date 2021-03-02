@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 🤠, I'm Chad</h1>
+<h1 align="center">Howdy, I'm Chad 🤠</h1>
 <h3 align="center">Adventurer, Engineer, & Friend to the World</h3>
 
 - 👨‍💻 All of my projects are available at [https://chadcalcote.github.io/](https://chadcalcote.github.io/)
