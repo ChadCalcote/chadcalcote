@@ -3,14 +3,14 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65975008/109725594-9b79c580-7b6e-11eb-9967-f03d8eae9b89.gif" width="250" height="160" />
 
 
-## Adventurer, Engineer, & Friend to the World
+## Globetrotter, Engineer, & Friend to the World
 - ✍ You can find my projects here [portfolio]
-- 🎵 I’m currently writing my first ukulele song
-- 💻 I’m currently diving more into Redux
-- 👯 I’m looking for new work in tech
-- 💬 Ask me about ... Flask
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been to 4 continents, can you guess them?
+- 🎵  I’m currently writing my first ukulele song
+- 💻  I’m currently diving more into Redux
+- 💼  I’m looking for new work in tech
+- 💬  Ask me about ... Flask
+- 😄  Pronouns: He/Him
+- ⚡  Fun fact: I've been to 4 continents, can you guess which ones?
 
 
 ### Let's link up, check me out here:
@@ -55,7 +55,5 @@
 </details>
 
 [website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]: https://linkedin.com/in/chadcalcote
 [portfolio]: https://chadcalcote.github.io/
