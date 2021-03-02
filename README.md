@@ -1,6 +1,6 @@
 ### Howdy World, I'm Chad 🤠
 
- <img align="right" alt="GIF" src="https://images.app.goo.gl/cMcKb9mQhhUSTxvY6" width="500" height="320" />
+ ![4SOY](https://user-images.githubusercontent.com/65975008/109725594-9b79c580-7b6e-11eb-9967-f03d8eae9b89.gif)
 
 
 ## Adventurer, Engineer, & Friend to the World
