@@ -37,6 +37,5 @@
 
 <br />
 
-[website]: https://holistic-developer.com/
 [linkedin]: https://linkedin.com/in/chadcalcote
-[portfolio]: https://chadcalcote.github.io/
+[portfolio]: http://www.chadcalcote.com/
