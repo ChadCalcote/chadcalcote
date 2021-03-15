@@ -38,4 +38,4 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/chadcalcote
-[portfolio]: http://www.chadcalcote.com/
+[portfolio]: https://chadcalcote.github.io/
