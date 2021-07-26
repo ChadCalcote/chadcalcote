@@ -6,7 +6,6 @@
 ## Globetrotter, Engineer, & Friend to the World
 - ✍ You can find my projects here [portfolio]
 - 🎵  I’m currently writing my first ukulele song
-- 💼  I’m looking for new work in tech
 - 💬  Ask me about ... Flask
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I've been to 4 continents, can you guess which ones?
