@@ -4,11 +4,7 @@
 
 
 ## Globetrotter, Engineer, & Friend to the World
-- ✍ You can find my projects here [portfolio]
-- 🎵  I’m currently writing my first ukulele song
-- 💬  Ask me about ... Flask
-- 😄  Pronouns: He/Him
-- ⚡  Fun fact: I've been to 4 continents, can you guess which ones?
+- ⚡  Fun fact: I've been to 5 continents, can you guess which ones?
 
 
 ### Let's link up, check me out here:
