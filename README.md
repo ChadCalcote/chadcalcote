@@ -4,7 +4,7 @@
 
 
 ## Globetrotter, Engineer, & Friend to the World
-- ⚡  Fun fact: I've been to 5 continents, can you guess which ones?
+- ⚡  Fun fact: I've been to every continent in the world, except for one! Can you guess which one?
 
 ### Languages and Tools:
 
